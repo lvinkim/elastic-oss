@@ -1,5 +1,8 @@
 /*
 
 !.gitignore
-!Dockerfile
+
+!/elasticsearch-oss/
+!/kibana-oss/
+!/logstash-oss/
 !README.md

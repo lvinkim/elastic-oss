@@ -4,6 +4,7 @@
 
 !/elasticsearch-oss/
 !/filebeat/
+!/heartbeat/
 !/kibana-oss/
 !/logstash-oss/
 !README.md

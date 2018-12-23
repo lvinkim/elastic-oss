@@ -6,5 +6,6 @@
 !/filebeat/
 !/heartbeat/
 !/kibana-oss/
+!/kibana-oss-6.5.4/
 !/logstash-oss/
 !README.md
